@@ -1,4 +1,4 @@
-baseurl = "http://swiftline.github.io"
+baseurl = "https://ferparishuertas.github.io/ubimio/"
 publishDir = "docs"
 languageCode = "es"
 title = "Kywyky"
