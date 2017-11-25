@@ -1,4 +1,5 @@
 baseurl = "http://swiftline.github.io"
+publishDir = "docs"
 languageCode = "es"
 title = "Kywyky"
 theme = "kywyky"
