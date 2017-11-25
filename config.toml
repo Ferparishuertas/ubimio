@@ -1,4 +1,4 @@
-baseurl = "https://ferparishuertas.github.io/ubimio"
+baseURL = "https://ferparishuertas.github.io/ubimio"
 publishDir = "docs"
 languageCode = "es"
 title = "Kywyky"
